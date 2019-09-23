@@ -1,7 +1,7 @@
 
 ## Getting Started
 
-This is a respiratory for the can-bus control(including throttle, steer and brake) of a kia_soul_ev used by the Safe AI Lab of Carnegie Mellon University. It is implemented based on https://github.com/PolySync/oscc-check.
+This is a respiratory for the can-bus control(including throttle, steer and brake) of a kia_soul_ev. It is implemented by the SafeAI Lab of Carnegie Mellon University based on https://github.com/PolySync/oscc-check.
 
 ### Compatibility
 
