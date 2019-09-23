@@ -1,6 +1,8 @@
 
 ## Getting Started
 
+This is a respiratory for the can-bus control(including throttle, steer and brake) of a kia_soul_ev used by the Safe AI Lab of Carnegie Mellon University. It is implemented based on https://github.com/PolySync/oscc-check.
+
 ### Compatibility
 
 Works with OSCC `v1.2.1` and up.
@@ -71,3 +73,7 @@ If you've installed the Kvaser SDK you need to run:
 # Default Kvaser CANlib usage for Kia Soul Ev
 python read_and_control -c 0 -b kvaser -V kia_soul_ev
 ```
+
+## Reference
+
+Please refer to https://github.com/PolySync/oscc-check for more instructions.
